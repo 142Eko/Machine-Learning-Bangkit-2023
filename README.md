@@ -26,7 +26,7 @@ Today i learned :<br>
 Data stream can sending or receiving data without using callbacks.Data stream also process data piece by piece.So, using data stream can reduce our resources(memory) and it's better than load all data(it takes so much memory),the program will work easily or fast with minimum resource.The resources can used to another process.If you want build a program in real time acces or have a big data or have minimum resource, i suggest you to use data stream<br>
     * Python Subprocess<br>
 Sub process in python mean that you can start new process or run new code.If you want to build an Automation,you can use Python Subprocess Module.Of course not only automation you can do,there is a lot things that you can do with sub process module.Because i am focusing the Machine Learning path,so i think i will use the Subprocess module to do Automation.
-    * Error Handling
+    * Error Handling<br>
 Same like other programming language,error handling in Python use 'Try and Except block',you write all codes in try and except in order to catch the error
 
 ---
