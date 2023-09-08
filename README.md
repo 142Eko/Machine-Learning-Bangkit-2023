@@ -30,4 +30,21 @@ Sub process in python mean that you can start new process or run new code.If you
 Same like other programming language,error handling in Python use 'Try and Except block',you write all codes in try and except in order to catch the error
 
 ---
+
+#### Report date Sep-08-2023
+Third week,i have larned about 'Data',there is 3 core in this week:<br>
+   * Foundations: Data, Data, Everywhere                  (This we learn how all data interact with us in daily life)
+   * Ask Questions to Make Data-Driven Decisions   (This,we start to learn how to use data we have collected)
+   * Prepare Data For Exploration                     (This,we learn about data type,manage data,filter,organized,and many other)
+
+Today i have learned about :<br>
+* Data ethic and privacy
+Talk about data,of course not all adata we can publish or process,there is a lot of data ethic and privacy.<br>
+I will take anonymization as example.We want our data is safe when company collect our data,so,what is anonymization?<br>
+Anonymization can eliminate/create initial.We often use anonymization at: Name,Telephone numbers,License plat and Etc <br>
+   * Transformation data(Change structure data)
+   * Structured data (Have same types,usually created in rows and coloumns)
+   * Unstructured data (Different types)
+   * Wide data (By multiple  coloumns) and Long data (By multiple rows)
+---
 ## 
