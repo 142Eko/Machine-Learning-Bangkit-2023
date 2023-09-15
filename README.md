@@ -47,4 +47,17 @@ Anonymization can eliminate/create initial.We often use anonymization at: Name,T
    * Unstructured data (Different types)
    * Wide data (By multiple  coloumns) and Long data (By multiple rows)
 ---
+#### Report date Sep-15-2023
+* This week, we have learned 3 cores:
+   * Process Data from Dirty to Clean         (How to do data cleaning, what thing we should clean dat)<br>
+   * Analyze Data to Answer Questions      (We learned queries, data formatting, data transform, etc)<br>
+   * Share Data Through the Art of Visualization (We learn how to make data  easy to understand to other people like stakeholders,client,etc)
+<br><br>
+Now I will explain a little bit more about 3 thing about <br>
+Process Data from Dirty to clean.<br>
+Why data must clean? We know even we have normalized a data, it is still not cleaned such duplicate ,missing data.So we must clean data to make sure the data valid.<br>
+Analyze Data to Answer Questions<br>
+In case we have a question, how many people using this product, we can use data from database like sql or excell, then enter the condition to get output<br>
+Share Data Through the Art of Visualization<br>
+Just like the word saying, we create visualization (graph, pie, etc) with a rule, in order to help other people what data is it, what is the biggest value, etc<br>
 ## 
