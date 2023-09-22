@@ -1,7 +1,7 @@
 # Machine-Learning-Bangkit-2023
 Report of Machine Learning
 ## Weekly Report
-### Period August 14 - 18 2023<br><br>
+### Period August 14 - 18 September 2023<br><br>
 
 ---
 #### Report date Aug-25-2023
@@ -61,3 +61,18 @@ In case we have a question, how many people using this product, we can use data 
 Share Data Through the Art of Visualization<br>
 Just like the word saying, we create visualization (graph, pie, etc) with a rule, in order to help other people what data is it, what is the biggest value, etc<br>
 ## 
+---
+### Period August 19 Sept - 23 October 2023<br><br>
+---
+#### Report date Sep-22-2023
+Period 11-15 September 2023 , i have learned about little bit about R programming language.<br>
+R programming language is like other programming language, but R programming more into statistic thing.<br>
+* R programming also have many advantages are:<br>
+   * Open source <br>
+   * Data manipulation, data visualization, and statistics packages <br>
+   * Has many library you can use<br>
+Now, lets talk about Data structures at R programming language. Data structures at R programming language are List and Vector.<br>
+How we create a vector at R?<br>
+Use 'c(value1, value2, value 3)' . If the value is a number, you must add 'L' in each number, example c(1,9,10) To---> c(1L,9L,10L)<br>
+How we create a list at R?<br>
+Not much different from create a vector, just replace 'c()' function to 'list()' function.<br>
