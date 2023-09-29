@@ -76,3 +76,7 @@ How we create a vector at R?<br>
 Use 'c(value1, value2, value 3)' . If the value is a number, you must add 'L' in each number, example c(1,9,10) To---> c(1L,9L,10L)<br>
 How we create a list at R?<br>
 Not much different from create a vector, just replace 'c()' function to 'list()' function.<br>
+---
+#### Report date Sep-29-2023
+In this week, i have learned Mathematics for Machine Learning and Data Science Specialization. So, at this topic, I think i will explain a little bit about Linear Algebra <br>for Machine Learning and Data Science. Well, it's not much different with math at your previous class. There are 4 cores at this course but i will explain one.<br>
+- System of linear equation. As we know, there are two types System of linear equation. First one is System of linear equation 2 variables, and second one is System of <br>linear equation 3 variables. Of course all of them have matrices too, we know how to solve at math, but at this course teach us how we solve this problem at programming <br>
