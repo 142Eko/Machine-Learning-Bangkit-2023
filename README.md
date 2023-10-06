@@ -80,3 +80,15 @@ Not much different from create a vector, just replace 'c()' function to 'list()'
 #### Report date Sep-29-2023
 In this week, i have learned Mathematics for Machine Learning and Data Science Specialization. So, at this topic, I think i will explain a little bit about Linear Algebra <br>for Machine Learning and Data Science. Well, it's not much different with math at your previous class. There are 4 cores at this course but i will explain one.<br>
 - System of linear equation. As we know, there are two types System of linear equation. First one is System of linear equation 2 variables, and second one is System of <br>linear equation 3 variables. Of course all of them have matrices too, we know how to solve at math, but at this course teach us how we solve this problem at programming <br>
+#### Report date Oct-06-2023
+In this week, i have learned about calculus, probability and  statistics. <br>
+* At calculus we learn<br>
+   * Derivatives and optimization (More advanced derivatives like euler number, logarithm natural)<br>
+   * Gradient and gradients descent (gradient descent will used to train machine learning model with neural network)<br>
+   * Optimization in neural networks and newton's method (talk about classification, and regression)<br>
+I will explain a little bit about the word 'Classification'<br>
+Classification divide two types. First one is Binary Classification (Only 2 output like yes / no, woman/man, and other). And another one is Multi classification ( More than 2 output like weather prediction sunny/rain/cloudy/storm and  other)<br>
+* At probability and statistics we learn
+   * Probability theorem (naive bayes, bernouli)
+   * Sampling (Mean, variance, point estimation)
+   * Hypothesis  testing
