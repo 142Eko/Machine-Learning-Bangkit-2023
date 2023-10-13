@@ -92,3 +92,13 @@ Classification divide two types. First one is Binary Classification (Only 2 outp
    * Probability theorem (naive bayes, bernouli)
    * Sampling (Mean, variance, point estimation)
    * Hypothesis  testing
+#### Report date Oct-13-2023
+* In this week i have learn 3 cores of course are:<br>
+   * Introduction to Machine learning (Talk about learning types in machine learning like supervised learning, unsupervised learning and reinforcement learning)<br>
+   * Regression (Talk regression with multiple input variables, linear and logistic regression)<br>
+   * Classification (how to solve use classification)<br>
+I have explained about first core, so i will explain a little bit about the other cores.<br>
+Regression<br>
+There are 2 regression. First one is  linear regression (Used to estimate) and logistic regression (Just like classification). And there is multiple input variables as i know It evaluates the relative effect of variables on the dependent variable when holding all the other variables in the model constant.<br>
+Classification<br>
+There are 2 types, first is binary class (only 2 output like yes or no/man or women/ dog or cat, etc) and the other one is multi class (more than 2 output)<br>
