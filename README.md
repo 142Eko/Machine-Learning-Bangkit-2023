@@ -76,7 +76,7 @@ How we create a vector at R?<br>
 Use 'c(value1, value2, value 3)' . If the value is a number, you must add 'L' in each number, example c(1,9,10) To---> c(1L,9L,10L)<br>
 How we create a list at R?<br>
 Not much different from create a vector, just replace 'c()' function to 'list()' function.<br>
----
+
 #### Report date Sep-29-2023
 In this week, i have learned Mathematics for Machine Learning and Data Science Specialization. So, at this topic, I think i will explain a little bit about Linear Algebra <br>for Machine Learning and Data Science. Well, it's not much different with math at your previous class. There are 4 cores at this course but i will explain one.<br>
 - System of linear equation. As we know, there are two types System of linear equation. First one is System of linear equation 2 variables, and second one is System of <br>linear equation 3 variables. Of course all of them have matrices too, we know how to solve at math, but at this course teach us how we solve this problem at programming <br>
@@ -102,28 +102,30 @@ Regression<br>
 There are 2 regression. First one is  linear regression (Used to estimate) and logistic regression (Just like classification). And there is multiple input variables as i know It evaluates the relative effect of variables on the dependent variable when holding all the other variables in the model constant.<br>
 Classification<br>
 There are 2 types, first is binary class (only 2 output like yes or no/man or women/ dog or cat, etc) and the other one is multi class (more than 2 output)<br>
+---
+### Period August 19 Sept - 23 October 2023<br><br>
 #### Report date Nov-12-2023
 In this week, i have learned about Advanced Learning Algorithms. At Advanced Learning Algorithms, there are 2 cores .<br>
--Neural Network<br>
--Decision Tree<br>
+   -Neural Network<br>
+   -Decision Tree<br>
 Now, i will explain a little bit about the core<br>
 Neural Network<br>
 Neural network have 3 important part, like another, input - process - output.<br>
-1. Input <br>
-2. Layers (This ,can 2 or more layers)<br>
-3. Output <br>
-
-Decision tree<br>
+   1. Input <br>
+   2. Layers (This ,can 2 or more layers)<br>
+   3. Output <br>
+   Decision tree<br>
 Neural network have 3 important part<br>
-1. Root <br>
-2. Leaf root<br>
-3. Branches<br>
+   1. Root <br>
+   2. Leaf root<br>
+   3. Branches<br>
 So, what is difference between them?<br>
 Neural networks<br>
--All types data<br>
--Can solve hard problem<br>
--Hard and long time to train<br>
-Decision Tree<br>
--Focused on structured data<br>
--Only easy problem<br>
--Easy to train<br>
+   -All types data<br>
+   -Can solve hard problem<br>
+   -Hard and long time to train<br>
+   Decision Tree<br>
+   -Focused on structured data<br>
+   -Only easy problem<br>
+   -Easy to train<br>
+---
