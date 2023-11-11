@@ -102,3 +102,28 @@ Regression<br>
 There are 2 regression. First one is  linear regression (Used to estimate) and logistic regression (Just like classification). And there is multiple input variables as i know It evaluates the relative effect of variables on the dependent variable when holding all the other variables in the model constant.<br>
 Classification<br>
 There are 2 types, first is binary class (only 2 output like yes or no/man or women/ dog or cat, etc) and the other one is multi class (more than 2 output)<br>
+#### Report date Nov-12-2023
+In this week, i have learned about Advanced Learning Algorithms. At Advanced Learning Algorithms, there are 2 cores .<br>
+-Neural Network<br>
+-Decision Tree<br>
+Now, i will explain a little bit about the core<br>
+Neural Network<br>
+Neural network have 3 important part, like another, input - process - output.<br>
+1. Input <br>
+2. Layers (This ,can 2 or more layers)<br>
+3. Output <br>
+
+Decision tree<br>
+Neural network have 3 important part<br>
+1. Root <br>
+2. Leaf root<br>
+3. Branches<br>
+So, what is difference between them?<br>
+Neural networks<br>
+-All types data<br>
+-Can solve hard problem<br>
+-Hard and long time to train<br>
+Decision Tree<br>
+-Focused on structured data<br>
+-Only easy problem<br>
+-Easy to train<br>
