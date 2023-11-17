@@ -103,7 +103,7 @@ There are 2 regression. First one is  linear regression (Used to estimate) and l
 Classification<br>
 There are 2 types, first is binary class (only 2 output like yes or no/man or women/ dog or cat, etc) and the other one is multi class (more than 2 output)<br>
 ---
-### Period August 19 Sept - 23 October 2023<br><br>
+### Period October 24 - December 11 2023<br><br>
 #### Report date Nov-12-2023
 In this week, i have learned about Advanced Learning Algorithms. At Advanced Learning Algorithms, there are 2 cores .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neural Network<br>
@@ -131,3 +131,16 @@ Decision Tree<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Easy to train<br>
    
 ---
+### Report Date Nov-17-2023
+In this week, i have learned about a more advanced in machine learning. The topics are :<br>
+Unsupervised Learning (The short meaning is how we can train unlabeled data)<br>
+Recommenders             (How to build a system recommender)<br>
+Reinforcement Learning (machine learning training method based on rewarding desired behaviors and punishing undesired ones)<br>
+
+I will explain a little bit more (based on coursera)<br>
+Unsupervised learning<br>
+This course focus on clustering and anomaly detection. Clustering is process unlabeled data to create a group. Anomaly detection itself is the outlier in data, we can find anomaly with several algorithm like gaussian<br>
+Recommenders <br>
+Recommenders focus on filtering.<br>
+Reinforcement learning<br>
+This method is very often used to machine learning, the key is correct algorithm<br>
