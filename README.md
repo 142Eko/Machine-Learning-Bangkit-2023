@@ -144,3 +144,16 @@ Recommenders <br>
 Recommenders focus on filtering.<br>
 Reinforcement learning<br>
 This method is very often used to machine learning, the key is correct algorithm<br>
+
+---
+### Report Date Nov-24-2023
+For this week, i have learned<br>
+-Deep Learning<br>
+-Convolutional Neural Network<br><br>
+
+I will explain all point above<br>
+Deep learning<br>
+Deep learning is part of machine learning. Deep learning has a structure called ANN ( Artificial Neural Network) . ANN itself has 2 or more hidden layers to process the data and get the output. Computer vision also part of deep learning. I will explain a little bit about object detection. Object detection will scan object with 'square' shape, and detect inside. Most used real time detection is YOLO algorithm<br>
+Convolutional Neural Network<br>
+The most used in convolutional neural network are convolutional and pooling. Convolutional is get the 'abstract/core' in image, when pooling resize the image.<br>
+
