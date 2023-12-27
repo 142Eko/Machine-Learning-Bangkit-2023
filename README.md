@@ -157,3 +157,10 @@ Deep learning is part of machine learning. Deep learning has a structure called 
 Convolutional Neural Network<br>
 The most used in convolutional neural network are convolutional and pooling. Convolutional is get the 'abstract/core' in image, when pooling resize the image.<br>
 
+
+
+---
+
+### Report Date Dec-27-2023
+2 weeks before the end of the bangkit program, in this 19th week my team and I have completed a product capstone entitled EMPAQ. Since I have not yet described the capstone of my product, I will tell what EMPAQ is.<br>
+In short, EMPAQ is an application with the aim of mental health. EMPAQ helps users get services from peer counselors as well as professionals. But not all features can be accessed for free.<br> We only provide consultations with chatbots and peer counselors . To conduct a consultation with an expert, you will certainly have to pay. For the focus of our application is to minimize<br> suicidal ideation, if indicated suicidal ideation, it will be directed to the mobile service for further<br>
